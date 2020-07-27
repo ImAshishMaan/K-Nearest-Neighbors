@@ -1,4 +1,4 @@
-# K-Nearest-Neighbors-
+# K-Nearest-Neighbors
 A Program to explain K Nearest Neighbors (KNN) concept of machine learning.<br>
 KNN is a non-parametric, lazy learning algorithm. Its purpose is to use a database in which the data points are separated into several classes to predict the classification of a new sample point.
 
