@@ -18,6 +18,13 @@ Just for reference, this is “where” KNN is positioned in the algorithm list 
 The data in the notebook is anonymised classified data. So, we don't know what the numbers represent or we also don't know what those columns represent.
 We just know that we need to use these features that are unknown to us in order to predict a target class 1 or 0.
 
+# Libraries Used
+NumPy
+pandas
+matplotlib
+sklearn
+seaborn
+
 # Usages
 The notebook includes all the markdowns which explain all the process. <br>
 
