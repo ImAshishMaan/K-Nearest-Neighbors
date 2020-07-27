@@ -19,11 +19,11 @@ The data in the notebook is anonymised classified data. So, we don't know what t
 We just know that we need to use these features that are unknown to us in order to predict a target class 1 or 0.
 
 # Libraries Used
-NumPy
-pandas
-matplotlib
-sklearn
-seaborn
+NumPy <br>
+pandas<br>
+matplotlib<br>
+sklearn<br>
+seaborn<br>
 
 # Usages
 The notebook includes all the markdowns which explain all the process. <br>
