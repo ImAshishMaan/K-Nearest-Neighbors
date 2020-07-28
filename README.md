@@ -27,7 +27,7 @@ sklearn<br>
 seaborn<br>
 
 # Usages
-Use jupyter notebook to run the K Nearest Neighbors.ipynb file
+Use jupyter notebook to run the K Nearest Neighbors.ipynb file. <br>
 The notebook includes all the markdowns which explain all the process. <br>
 
 # Example
